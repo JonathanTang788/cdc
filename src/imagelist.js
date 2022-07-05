@@ -1,0 +1,15 @@
+export const imagelist = [
+  "none",
+  "ada",
+  "btc",
+  "cro",
+  "doge",
+  "eth",
+  "matic",
+  "mmf",
+  "shib",
+  "tonic",
+  "usdt",
+  "vvs",
+  "xrp",
+];
